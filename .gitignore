@@ -4,3 +4,5 @@ __pycache__/
 .env
 data/raw/*
 data/processed/*
+!data/processed/youtube_long_form_tableau.csv
+!data/processed/long_form_categories_reviewed_v2.csv
